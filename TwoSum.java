@@ -20,7 +20,7 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 */
 
-class Solution1 {
+class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         /*
         Solution 1: O(n2)

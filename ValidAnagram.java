@@ -14,7 +14,7 @@ Input: s = "rat", t = "car"
 Output: false
 */
 
-class Solution {
+class ValidAnagram {
 
     public boolean isAnagram(String s, String t) {
         // if length of strings are not equal, then one string is not an anagram of other

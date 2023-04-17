@@ -17,7 +17,7 @@ Input: nums = [1,1,1,3,3,4,3,2,4,2]
 Output: true
 */
 
-class Solution217 {
+class ContainsDuplicates {
     public boolean containsDuplicate(int[] nums) {
         /*
         Solution 1: O(n2)
